@@ -1,0 +1,11 @@
+body {
+    padding-top: 3.5rem;
+  }
+
+li{
+  list-style-type: circle;
+}
+
+img{
+    height: 400px;
+}
