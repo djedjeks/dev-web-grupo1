@@ -8,7 +8,7 @@
         <h1 class="display-4">Eai Professor! Está é a Homepage</h1>
         <p class="lead">Essa é uma pagina simples de apresentação com o framework Bootstrap 4.5 e PHP</p>
         <hr class="my-4">
-        <p>Ela é bem dhra até, gosto bastante de usar, hehehe</p>
+        <p>O Bootstrap é relativamente interessante e PHP, bom, tô quase lá</p>
         <button type="button " class="btn btn-outline-light" data-toggle="modal" data-target="#exampleModal">
           Clica ai...
         </button>
@@ -44,7 +44,7 @@
       <main role="main" class="inner">
         <div class="jumbotron text-center bg-success">
           <h1 class="display-4">Oi! eu sou o Weliton!</h1>
-          <p class="lead">Eu sou um cara criativo até, gosto de brincar com as possibilidades que o DEV me dá</p>
+          <p class="lead">Eu sou um cara criativo (eu acho_, gosto de brincar com as possibilidades que o desenvolvimento me dá</p>
           <hr class="my-4">
           <p>Quem sabe um dia eu não me torne um Desenvolvedor foda, né?</p>
         </div>
